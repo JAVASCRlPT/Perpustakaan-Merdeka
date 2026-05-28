@@ -1,4 +1,4 @@
-# 📚 Perpustakaan Kampus Online
+# 📚 Perpustakaan Kampus Merdeka Online
 
 Aplikasi web perpustakaan kampus modern dengan fitur manajemen buku, sistem peminjaman otomatis, dan dashboard interaktif.
 
